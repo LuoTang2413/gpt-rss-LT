@@ -15,7 +15,10 @@
     "title": "即刻-哥飞",
     "rss": "https://rssh-ub-lt.vercel.app/jike/user/a2d6acc1-626f-4d15-a22a-849e88a4c9f0"
   },
-  
+  {
+    "title": "Biorxiv",
+    "rss": "http://connect.biorxiv.org/biorxiv_xml.php?subject=all"
+  },
   {
     "title": "新智元",
     "rss": "https://rsshub.app/wechat/ce/567acc0e293075543d000001"
