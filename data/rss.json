@@ -8,6 +8,10 @@
     "rss": "https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698"
   },
   {
+    "title": "微博热搜榜",
+    "rss": "https://rsshub.app/weibo/search/hot"
+  },
+  {
     "title": "即刻-橘子汽水配柠檬水",
     "rss": "https://rssh-ub-lt.vercel.app/jike/user/6ab5f193-0847-447a-aa12-d10bdd7f8c2c"
   },
